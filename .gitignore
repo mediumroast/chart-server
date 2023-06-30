@@ -5,3 +5,6 @@ node_modules/
 *.png
 # generated PNG files
 *.svg
+
+# Keys
+var/
